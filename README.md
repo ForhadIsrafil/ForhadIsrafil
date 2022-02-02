@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Forhad Israfil
 - 👀 I’m interested in python, django, swift and more
 - 🌱 I’m currently learning swift for ios and macOS.
-- 💞️ I’m looking to collaborate on a software company as junior python programmer.
+- 💞️ I’m looking to collaborate on a software company as a python, djagno and swift programmer.
 - 📫 How to reach me: Fiverr>> forhadisrafil and Upwork>> forhad_israfil
 
 <!---
