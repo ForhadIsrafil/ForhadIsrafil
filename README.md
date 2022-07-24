@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Forhad Israfil
-- 👀 I’m interested in python, django, swift and more
-- 🌱 I’m currently learning swift for ios and macOS.
-- 💞️ I’m looking to collaborate on a software company as a python, djagno and swift programmer.
-- 📫 How to reach me: Fiverr>> forhadisrafil and Upwork>> forhad_israfil
+- 👀 I’m interested in python, django, bot, automation, api and more
+- 💞️ I’m looking to collaborate on a software company as a python, djagno programmer.
+- 📫 How to reach me: #Fiverr: https://www.fiverr.com/forhadisrafil and #Upwork: forhad_israfil
 
 <!---
 ForhadIsrafil/ForhadIsrafil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
