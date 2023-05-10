@@ -2,7 +2,7 @@
 👋 Hi, I’m Forhad Israfil\
 👀 I’m interested in python, django, bot, automation, api and more\
 🔭 I’m currently working on my Skills.\
-🌱 I’m currently learning more about PHP Laravel.\
+🌱 I’m currently learning more about Flutter.\
 🤔 I’m looking for help with Exploring New Technologies.\
 💬 Ask me about any tech-related stuff.\
 📫 How to reach me:\
