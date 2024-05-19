@@ -28,7 +28,7 @@ Linkedin: https://www.linkedin.com/in/forhad-israfil-a87b2119b/
 [![](https://visitcount.itsvg.in/api?id=forhadisrafil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<a href="https://www.buymeacoffee.com/forhaddreams">
+<a href="https://www.buymeacoffee.com/forhaddreams" target="_blank">
   <img src="https://raw.githubusercontent.com/ForhadIsrafil/ForhadIsrafil/main/buymeacoffee.png" alt="Buy Me a Coffee">
 </a>
 <!---
