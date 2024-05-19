@@ -28,8 +28,9 @@ Linkedin: https://www.linkedin.com/in/forhad-israfil-a87b2119b/
 [![](https://visitcount.itsvg.in/api?id=forhadisrafil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![https://github.com/ForhadIsrafil/ForhadIsrafil/blob/main/buymeacoffee.png]([https://www.buymeacoffee.com/forhaddreams])
-
+<a href="https://www.buymeacoffee.com/forhaddreams">
+  <img src="https://raw.githubusercontent.com/ForhadIsrafil/ForhadIsrafil/main/buymeacoffee.png" alt="Buy Me a Coffee">
+</a>
 <!---
 ForhadIsrafil/ForhadIsrafil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
